@@ -1,0 +1,32 @@
+body{
+    padding: 15x;
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+nwtp1{
+    font-size: 50px;
+    font-style: normal;
+    text-align: center;
+
+}
+
+
+
+h1{
+    background-color: white;
+    font-size: 70px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+h2{
+    font-family: Arial;
+    font-size: 20px;
+    text-align: left;
+}
+
+li{
+    font-size: 20px;
+    font-style: italic;
+}
